@@ -1,3 +1,5 @@
+Задеплоил в [Vercel](https://cars-t.vercel.app/).
+
 #### Стек:
 * mongodb
 * Next.JS
